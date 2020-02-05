@@ -1,0 +1,66 @@
+#logo{
+    width: 150px;
+    height:34.7px;
+    object-fit: contain;
+    margin-top: 76px;
+    margin-left: 32px;
+}
+
+p{
+    font-size: 16px;
+    font-family:  Helvetica;
+    line-height: 1.25;
+    color: #172333;
+}
+h3{
+    color: #172333;
+    line-height: 1.21;
+    font-size: 24px;
+    font-family: helvetica;
+    margin-left: 32px;
+    margin-right: 218px;
+}
+.tasker{
+    width: 111px;
+    height: 48px;
+    border-radius: 24px;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.1);
+    background-color: #ff4d00;
+    color:#ffffff ;
+    margin-left:32.5px ;
+    margin-right: 24px;
+    margin-bottom: 40px;
+    padding: 15px 25px 15px 24px;
+}
+.sign-up{
+   width: 166px;
+  height: 48px;
+  border-radius: 24px;
+  blur(10px);
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.1);
+  background-color:#ffffff ;
+  color:#6b737d ;
+  padding: 15px 24px 15px 24px;
+}
+.continue{
+  width: 350px;
+  height: 48px;
+  border-radius: 4px;
+  color:#ffffff ;
+  background-color:#5fad56 ;
+  padding: 16px 128px 15px 129px;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 1.21;
+}
+.name-surname{
+    width: 135px;
+    height: 20px;
+    font-family:helvetica;
+    font-size: 16px;
+    line-height: 1.25;
+    text-align: left;
+    background-color: #ffffff;
+
+
+}
